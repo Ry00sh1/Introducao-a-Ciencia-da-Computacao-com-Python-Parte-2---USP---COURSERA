@@ -1,3 +1,3 @@
-# Exercicios_Python
+# Exercicios_Parte2
  Exercícios que realizei em Python durante o curso Introdução à Ciência da Computação com Python Parte 2 da
 Universidade de São Paulo, distribuido pela Coursera.
